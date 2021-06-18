@@ -12,6 +12,7 @@ numpy
 matplotlib  ->  https://matplotlib.org/
 plotly   ->  https://plotly.com/
 plotnine  -> https://plotnine.readthedocs.io/en/stable/
+networkx  -> used for representing and manipulating node-tree type data
 
 
 # DEBUGGING PRINT ALTERNATIVE
@@ -29,3 +30,6 @@ google.colab (import drive) - allows mounting google drives for use in google co
 sklearn -> https://scikit-learn.org/stable/index.html
 keras -> https://keras.io/
 tensorflow -> https://www.tensorflow.org/
+
+# DATABASES
+sqlalchemy -> database driver ORM wrapper
